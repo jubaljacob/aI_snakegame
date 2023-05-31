@@ -24,7 +24,7 @@ Q-learning finds an optimal policy by maximizing the expected value of the total
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/snake-game-ai.git
+git clone https://github.com/jubaljacob/aI_snakegame.git
 ```
 
 2. Change into the project directory:
