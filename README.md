@@ -23,10 +23,10 @@ Linear Q_net Module:
 
 ## Screenshots
 
-##Snake game playing by itself.
+## Snake game playing by itself.
 ![image](https://drive.google.com/uc?export=view&id=1iRmQ4nNlYzgGsucH8EOgnOl1Tv9vEZJ0)
 
-##Current game stastitics.
+## Current game stastitics.
 ![train](https://github.com/jubaljacob/aI_snakegame/assets/71512643/d181188a-23da-407c-af16-53c65c4a62f2)
 
 
