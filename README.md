@@ -21,7 +21,7 @@ Linear Q_net Module:
 
 Insert gif or link to demo
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/jubaljacob/aI_snakegame/blob/main/snake.gif))
+![](https://github.com/jubaljacob/aI_snakegame/blob/main/snake.gif)
 
 ## Screenshots
 
