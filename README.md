@@ -19,16 +19,14 @@ Linear Q_net Module:
 * Q-learning finds an optimal policy in the sense of maximizing theexpected value of the total reward over all successive steps, starting from the current state. Q-learning can identify an optimal action-selection policy for any given FMDP, given infinite exploration time and a partlyrandom policy. "Q" refers to the function that the algorithm computes – the expected rewards for an action taken in each state. 
 ## Demo
 
-Insert gif or link to demo
-
 ![](https://github.com/jubaljacob/aI_snakegame/blob/main/snake.gif)
 
 ## Screenshots
 
-Snake game playing by itself.
+##Snake game playing by itself.
 ![image](https://drive.google.com/uc?export=view&id=1iRmQ4nNlYzgGsucH8EOgnOl1Tv9vEZJ0)
 
-Current game stastitics.
+##Current game stastitics.
 ![train](https://github.com/jubaljacob/aI_snakegame/assets/71512643/d181188a-23da-407c-af16-53c65c4a62f2)
 
 
